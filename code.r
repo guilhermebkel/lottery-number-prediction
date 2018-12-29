@@ -117,6 +117,4 @@ lotofacil = read.csv("lotofacil_resultados.csv", sep = ";")
         xlab = "Ball Number", 
         ylab = "Times Raffled",
         main = "- Wrong Numbers Counting (without order distinction):")
-  
-  
 }
